@@ -21,8 +21,8 @@ player on one screen, tap to apply each role's action, and undo anything. Fully 
 
 ## Install
 
-Build the APK (below) or download it from the releases, copy it to an Android 8.0+ phone, open it, and
-allow "Install unknown apps" when asked.
+Download the latest APK from [Releases](https://github.com/Ayouubyy/SupGarou/releases/latest) on an
+Android 8.0+ phone, open it, and allow "Install unknown apps" when asked. Or build it yourself (below).
 
 ## Build
 
